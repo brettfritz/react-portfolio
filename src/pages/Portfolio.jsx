@@ -5,13 +5,13 @@ function Portfolio() {
   const projects = [
     {
       title: 'Cash Compass',
-      image: './public/images/dashboard-1-snip.png',
+      image: '/images/dashboard-1-snip.png',
       deployedLink: 'https://cash-compass.onrender.com/',
       repoLink: 'https://github.com/brettfritz/cash-compass'
     },
     {
       title: 'Weather Website',
-      image: './public/images/weather-project.png',
+      image: '/images/weather-project.png',
       deployedLink: 'https://brettfritz.github.io/weather-website/',
       repoLink: 'https://github.com/brettfritz/weather-website'
     },
